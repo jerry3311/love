@@ -12,7 +12,7 @@ I built this website as a digital love letter—a rose that will never wilt, and
 * **A Song:** A built-in music player so you can play our song while you read.
 
 ### 🌐 View the Live Site
-👉 **[Click here to see your rose](https://jerry3311.github.io/love/)**
+👉 **[Click here to see your rose]**
 
 *(If the link doesn't work yet, make sure GitHub Pages is turned on in the repository settings!)*
 
